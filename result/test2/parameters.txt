@@ -1,0 +1,9 @@
+迭代相关参数
+learning_Rate=0.001
+train_iteration=20000
+display_step=500
+
+三层LSTM隐层节点数目
+layer1 = 256
+layer2 = 512
+layer3 = 512
