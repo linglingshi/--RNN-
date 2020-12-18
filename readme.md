@@ -26,7 +26,7 @@
 
 ​	(1) 在参数设置的对应路径中生成output文件
 
-![img](./img/1.png)
+![img](https://github.com/linglingshi/--RNN-/raw/master/img/1.png)
 
  	(2) 下面是输出结果展示
 
